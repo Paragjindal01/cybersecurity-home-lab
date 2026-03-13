@@ -7,7 +7,6 @@ This repository documents my cybersecurity home lab built on a Windows laptop.
 - Intel i5
 - 512GB SSD
 - NVIDIA 1650
-- 210GB free storage at setup
 
 ## Lab Stack
 - Windows host
